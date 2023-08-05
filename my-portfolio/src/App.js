@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import Header from './components/header/Header';
-import Home from './components/home/Home';
+import Home from './components/header/home/Home';
 
 const App = () => {
   return (
@@ -15,4 +15,4 @@ const App = () => {
   )
 }
 
-export default App
+export default App;
